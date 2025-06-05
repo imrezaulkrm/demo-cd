@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: demo-container
-        image: imrezaulkrm/demo-ci-cd:12
+        image: imrezaulkrm/demo-ci-cd:1
         ports:
         - containerPort: 80
 
